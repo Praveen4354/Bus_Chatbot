@@ -1,0 +1,426 @@
+{
+"data" : [
+      {
+          "User": "Hello!",
+          "Example": "Hii, What can I help you with?"
+      },
+      {
+          "User": "Who are you?",
+          "Example": "I'm a Bus Tracking Chatbot."
+      },
+      {
+          "User": "What services do you offer?",
+          "Example": " We provide information on bus schedules, ticket booking, fares, routes, and more. How can I assist you today?"
+      },
+      {
+          "User": "I need to travel from Chennai to Bangalore tomorrow. Can you help me find a suitable bus?",
+          "Example": "Of course! Could you please provide me with the date of travel and any preferences you have, such as departure time or bus type?"
+      },
+      {
+          "User": "I'd like to know the fare for a trip from Coimbatore to Madurai.",
+          "Example": "Sure thing! Let me check the fare for you. May I know the date of travel and the type of ticket you're looking for?"
+      },
+      {
+          "User": "How do I cancel my ticket if I need to?",
+          "Example": "To cancel your ticket, you'll need to provide the booking details. Once I have that information, I can assist you further with the cancellation process."
+      },
+      {
+          "User": "Are there any buses available from chennai  to kumbakonam  today?",
+          "Example": "Let me check the availability for you. Could you please confirm the date of travel and any other preferences you have?"
+      },
+      {
+          "User": "Do you have any restrictions on luggage?",
+          "Example": "Yes, we do have a luggage policy in place. Passengers are allowed to carry Would you like more information on this"
+      },
+      {
+          "User": "I need assistance for my grandmother who will be traveling alone. Can you help?",
+          "Example": "Absolutely! We provide special assistance for elderly passengers. Please provide the details of your grandmother's journey, and we'll ensure she's taken care of."
+      },
+      {
+          "User": "I want to file a complaint about the behavior of a bus conductor on my recent trip.",
+          "Example": "I'm sorry to hear about your experience. Please provide me with the details of the incident, and I'll escalate the matter to our customer service team for investigation."
+
+       },
+       {
+           "User": "Can I book return tickets as well?",
+           "Example": "Yes, return tickets can be booked along with your outbound journey."
+       },
+       {
+           "User": "What amenities do your buses offer?",
+           "Example": "Our buses are equipped with amenities such as comfortable seating, air conditioning, Wi-Fi ), and onboard restrooms."
+       },
+       {
+           "User": "How can I pay for my ticket?",
+           "Example": "We accept various payment methods including credit/debit cards, net banking, mobile wallets, and cash on delivery (COD) at select locations."
+       },
+       {
+           "User": "Do you offer any discounts for senior citizens?",
+           "Example": "Yes, we offer discounts for senior citizens on select routes. May I know the age of the passenger and the route you're interested in?"
+        },
+        {
+           "User": "Can I change the date of my ticket?",
+           "Example": "Yes, ticket rescheduling is possible depending on the fare rules and availability. Please provide me with the booking details, and I'll assist you with the date change process."
+        },
+        {
+           "User": "I'm traveling with an infant. Are there any special arrangements?",
+           "Example": "Yes, we provide special arrangements for passengers traveling with infants, including bassinets and priority boarding. Could you please provide me with the age of the infant and the route you're traveling on?"
+        },
+        {
+            "User": "How early should I arrive at the bus station before departure?",
+            "Example": "It's recommended to arrive at least 30 minutes before the scheduled departure time to complete the boarding process and ensure a hassle-free journey."
+
+        },
+
+        {
+            "User": "How can I view my booking history?",
+            "Example": "You can view your booking history by logging into your account on our website or mobile app. Alternatively, you can provide me with your booking reference number, and I can retrieve it for you."
+        },
+        {
+            "User": "Is it possible to book a seat with extra legroom?",
+            "Example": "Yes, we offer seats with extra legroom on select buses. Would you like me to check the availability for your preferred route?"
+        },
+        {
+            "User": "What happens if I miss my bus?",
+            "Example": "If you miss your bus, please contact our customer service team as soon as possible. Depending on the fare rules and availability, we may be able to assist you with rescheduling your ticket for a later departure."
+        },
+        {
+            "User": "Can I request a specific seat while booking?",
+            "Example": "Yes, you can request a specific seat while booking, subject to availability. Please let me know your seat preference, and I'll do my best to accommodate it."
+        },
+        {
+            "User": "How far in advance can I book a ticket?",
+            "Example": "You can book tickets in advance up to [number of days] before the date of travel. Would you like to book a ticket for a future date?"
+        },
+        {
+            "User": "Do you offer any travel packages or tour services?",
+            "Example": "Yes, we offer travel packages and tour services on select routes. Could you please specify the destination you're interested in, and I can provide you with more information?"
+        },
+        {
+            "User": "Can I bring my pet on board?",
+            "Example": "Pets are generally not allowed on board, except for service animals accompanying passengers with disabilities. If you require assistance, please let me know, and I'll provide further guidance."
+        },
+        {
+            "User": "What are the onboard entertainment options?",
+            "Example": "Our buses are equipped with onboard entertainment systems featuring movies, music, and TV shows for your enjoyment during the journey."
+        },
+        {
+            "User": "How can I file a claim for lost luggage?",
+            "Example": "If you've lost luggage during your journey, please report it to our staff at the bus station or contact our customer service team as soon as possible. We'll assist you in filing a claim and locating your lost items."
+        },
+        {
+            "User": "Can I request a wheelchair at the bus station?",
+            "Example": "Yes, we provide wheelchair assistance at select bus stations. Please let me know your travel details, and I'll ensure that the necessary arrangements are made for you."
+        },
+        {
+            "User": "Are there any family-friendly amenities onboard?",
+            "Example": "Yes, we offer family-friendly amenities such as baby changing facilities and child safety seats on select buses."
+        },
+        {
+            "User": "What is the maximum luggage weight allowed per passenger?",
+            "Example": "The maximum luggage weight allowed per passenger is [maximum weight limit]. Exceeding this limit may incur additional charges."
+        },
+        {
+            "User": "How can I request a meal preference for my journey?",
+            "Example": "You can request a meal preference while booking your ticket, or you can contact our customer service team with your booking details to make the request."
+        },
+        {
+            "User": "Can I book a bus ticket for someone else?",
+            "Example": "Yes, you can book a bus ticket for someone else. During the booking process, you'll need to provide their details and contact information."
+        },
+        {
+            "User": "Are there any discounts for group bookings?",
+            "Example": "Yes, we offer discounts for group bookings on select routes. Please provide me with the number of passengers and your preferred travel dates, and I'll check the availability for you."
+        },
+        {
+            "User": "Is there a loyalty program for frequent travelers?",
+            "Example": "Yes, we have a loyalty program for frequent travelers where you can earn points for every journey booked with us. These points can be redeemed for discounts or free tickets."
+        },
+        {
+            "User": "Can I make changes to my ticket after it's been booked?",
+            "Example": "Yes, you can make changes to your ticket, such as rescheduling or updating passenger details, depending on the fare rules and availability. Please provide me with your booking details, and I'll assist you further."
+        },
+        {
+            "User": "How can I track the status of my refund?",
+            "Example": "You can track the status of your refund by logging into your account on our website or mobile app. Alternatively, you can contact our customer service team with your booking reference number, and they'll provide you with an update."
+        },
+        {
+            "User": "Are there any restrictions on the type of luggage allowed onboard?",
+            "Example": "Yes, there are certain restrictions on the type of luggage allowed onboard, such as hazardous materials or oversized items. Please refer to our luggage policy for more information."
+        },
+        {
+            "User": "Can I request a specific pickup point for my journey?",
+            "Example": "Yes, you can request a specific pickup point while booking your ticket. If you have already booked your ticket and need to change the pickup point, please contact our customer service team for assistance."
+        },
+        {
+            "User": "How can I provide feedback about my recent journey?",
+            "Example": "You can provide feedback about your recent journey by filling out our online feedback form on our website or by contacting our customer service team directly. We value your feedback and use it to improve our services."
+        },
+        {
+            "User": "Is there a mobile app available for booking tickets?",
+            "Example": "Yes, we have a mobile app available for both Android and iOS devices. You can download it from the respective app stores and enjoy the convenience of booking tickets on the go."
+        },
+        {
+            "User": "Can I upgrade my ticket to a higher class?",
+            "Example": "Yes, you can upgrade your ticket to a higher class depending on availability. Please provide me with your booking details, and I'll check the upgrade options for you."
+        },
+        {
+            "User": "What are the boarding and drop-off points for the bus from Delhi to Agra?",
+            "Example": "The boarding and drop-off points for the bus from Delhi to Agra are [list of points]."
+        },
+        {
+            "User": "Can I book a sleeper berth for my overnight journey?",
+            "Example": "Yes, you can book a sleeper berth for your overnight journey. Please provide me with your travel details, and I'll assist you in finding available sleeper berths."
+        },
+{
+            "User": "What should I do if I haven't received my booking confirmation email?",
+            "Example": "If you haven't received your booking confirmation email, please check your spam or junk folder. If you still can't find it, please provide me with your booking details."
+        },
+
+        {
+            "User": "How can I book a bus ticket?",
+            "Example": "You can book a bus ticket through our website, mobile app, or at any of our ticket counters. How can I assist you with your booking?"
+        },
+        {
+            "User": "When is the next bus from Chennai to Coimbatore?",
+            "Example": "The next bus from Chennai to Coimbatore is scheduled to depart at 10:00 AM. Would you like to book a ticket for this journey?"
+        },
+        {
+            "User": "I need to cancel my ticket. How can I do that?",
+            "Example": "To cancel your ticket, please provide me with your booking reference number, and I'll assist you with the cancellation process."
+       },
+       {
+            "User": "What is the fare for a bus ticket from Madurai to Trichy?",
+            "Example": "The fare for a bus ticket from Madurai to Trichy is 300 rupees. Would you like to proceed with booking?"
+       },
+       {
+            "User": "Do you have any buses with sleeper berths?",
+            "Example": "Yes, we have buses with sleeper berths available on select routes. Where are you planning to travel?"
+       },
+       {
+           "User": "How long does it take to travel from Bangalore to Hyderabad by bus?",
+           "Example": "The travel time from Bangalore to Hyderabad by bus is approximately 8 hours. Is there anything else I can assist you with?"
+       },
+       {
+           "User": "I missed my bus. Can I reschedule my ticket?",
+           "Example": "Yes, you may be able to reschedule your ticket depending on the fare rules and availability. Please provide me with your booking details, and I'll check for you."
+       },
+       {
+           "User": "Are there any discounts available for students?",
+           "Example": "Yes, we offer discounts for students on select routes. Please provide me with your student ID, and I'll check for available discounts for your journey."
+       },
+       {
+           "User": "Can I track the location of my bus in real-time?",
+           "Example": "Yes, we offer real-time tracking for our buses on select routes. Please provide me with your booking details, and I'll assist you in tracking your bus."
+       },
+       {
+           "User": "What amenities do your buses offer?",
+           "Example": "Our buses are equipped with amenities such as air conditioning, Wi-Fi, comfortable seating, and onboard restrooms. Is there anything specific you're looking for?"
+       },
+       {
+           "User": "How early should I arrive at the bus station before departure?",
+           "Example": "It's recommended to arrive at least 30 minutes before the scheduled departure time to complete the boarding process and ensure a smooth journey."
+       },
+       {
+           "User": "Can I book a round-trip ticket from Chennai to Madurai?",
+           "Example": "Yes, you can book a round-trip ticket for your journey. Would you like to proceed with booking both the onward and return journeys?"
+       },
+       {
+           "User": "I need assistance for my elderly parents who will be traveling alone. Can you help?",
+           "Example": "Absolutely! We provide special assistance for elderly passengers. Please provide me with the details of their journey, and we'll ensure they're taken care of."
+       },
+       {
+           "User": "What are the different types of buses available for travel?",
+           "Example": "We offer various types of buses including AC sleeper, semi-sleeper, deluxe, and Volvo buses. Which type of bus are you interested in?"
+       },
+       {
+           "User": "How can I check the status of my booking?",
+           "Example": "You can check the status of your booking by logging into your account on our website or mobile app. Alternatively, you can provide me with your booking reference number, and I'll check for you."
+       },
+       {
+           "User": "Can I book tickets for a group of 10 people?",
+           "Example": "Yes, you can book tickets for a group of 10 people. Please provide me with the travel date and destination, and I'll check for availability."
+       },
+       {
+           "User": "Is it possible to change the date of my ticket?",
+           "Example": "Yes, ticket rescheduling is possible depending on the fare rules and availability. Please provide me with your booking details, and I'll assist you with the date change process."
+       },
+       {
+           "User": "How can I get a refund for my cancelled ticket?",
+           "Example": "To request a refund for a cancelled ticket, please provide me with your booking reference number, and I'll initiate the refund process for you."
+       },
+       {
+           "User": "Can I bring my pet onboard?",
+           "Example": "Pets are generally not allowed onboard, except for service animals accompanying passengers with disabilities. If you require assistance, please let me know, and I'll provide further guidance."
+       },
+       {
+           "User": "What happens if I miss my bus?",
+           "Example": "If you miss your bus, please contact our customer service team as soon as possible. Depending on the fare rules and availability, we may be able to assist you with rescheduling your ticket for a later departure."
+       },
+       {
+           "User": "Are there any special discounts available for senior citizens?",
+           "Example": "Yes, we offer special discounts for senior citizens on select routes. Please provide me with the age of the passenger and the route you're interested in, and I'll check for available discounts."
+       },
+       {
+           "User": "How can I provide feedback about my recent journey?",
+           "Example": "You can provide feedback about your recent journey by filling out our online feedback form on our website or by contacting our customer service team directly. We value your feedback and use it to improve our services."
+       },
+       {
+           "User": "Can I request a specific seat while booking?",
+           "Example": "Yes, you can request a specific seat while booking, subject to availability. Please let me know your seat preference, and I'll do my best to accommodate it."
+       },
+       {
+           "User": "What are the boarding and drop-off points for the bus from Delhi to Agra?",
+           "Example": "The boarding and drop-off points for the bus from Delhi to Agra are [list of points]. Is there anything else you'd like to know about this route?"
+       },
+       {
+           "User": "How can I track the status of my refund?",
+           "Example": "You can track the status of your refund by logging into your account on our website or mobile app. Alternatively, you can contact our customer service team with your booking reference number, and they'll provide you with an update."
+       },
+       {
+           "User": "Can I request a wheelchair at the bus station?",
+           "Example": "Yes, we provide wheelchair assistance at select bus stations. Please let me know your travel details, and I'll ensure that the necessary arrangements are made for you."
+       },
+       {
+           "User": "Can I book a bus ticket for someone else?",
+           "Example": "Yes, you can book a bus ticket for someone else. During the booking process, you'll need to provide their details and contact information."
+       },
+       {
+           "User": "How can I upgrade my ticket to a higher class?",
+           "Example": "You can upgrade your ticket to a higher class depending on availability. Please provide me with your booking details, and I'll check the upgrade options for you."
+       },
+       {
+           "User": "Are there any family-friendly amenities onboard?",
+           "Example": "Yes, we offer family-friendly amenities such as baby changing facilities and child safety seats on select buses. Would you like to know more about these amenities?"
+       },
+       {
+           "User": "Can I book a sleeper berth for my overnight journey?",
+           "Example": "Yes, you can book a sleeper berth for your overnight journey. Please provide me with your travel details, and I'll assist you in finding available sleeper berths."
+       },
+       {
+           "User": "Is there a mobile app available for booking tickets?",
+           "Example": "Yes, we have a mobile app available for both Android and iOS devices. You can download it from the respective app stores and enjoy the convenience of booking tickets on the go."
+       },
+       {
+           "User": "Can I bring my bicycle onboard?",
+           "Example": "Bicycles are generally not allowed onboard due to space constraints. However, you can check with our customer service team for any specific arrangements or alternative options."
+       },
+       {
+           "User": "How can I request a meal preference for my journey?",
+           "Example": "You can request a meal preference while booking your ticket, or you can contact our customer service team with your booking details to make the request."
+       },
+       {
+           "User": "Can I make changes to my ticket after it's been booked?",
+           "Example": "Yes, you can make changes to your ticket, such as rescheduling or updating passenger details, depending on the fare rules and availability. Please provide me with your booking details, and I'll assist you further."
+       },
+       {
+           "User": "Are there any restrictions on the type of luggage allowed onboard?",
+           "Example": "Yes, there are certain restrictions on the type of luggage allowed onboard, such as hazardous materials or oversized items. Please refer to our luggage policy for more information."
+       },
+       {
+          "User": "Can I book a seat with a window view?",
+          "Example": "Yes, you can request a seat with a window view while booking your ticket. If you've already booked your ticket and would like to change your seat, please contact our customer service team for assistance."
+       },
+       {
+          "User": "How can I file a complaint about my recent journey?",
+          "Example": "You can file a complaint about your recent journey by filling out our online complaint form on our website or by contacting our customer service team directly. We take all complaints seriously and will investigate the matter promptly."
+       },
+       {
+          "User": "Can I book a ticket without creating an account?",
+          "Example": "Yes, you can book a ticket as a guest user without creating an account. However, creating an account allows you to access additional features and track your bookings more easily."
+       },
+       {
+          "User": "Is there a limit on the number of bags I can bring onboard?",
+          "Example": "Yes, there is a limit on the number of bags allowed onboard per passenger. Please refer to our luggage policy for the specific details and restrictions."
+       },
+       {
+          "User": "How can I redeem my loyalty points?",
+          "Example": "You can redeem your loyalty points for discounts or free tickets during the booking process. Simply select the option to redeem points and follow the prompts to complete your booking."
+       },
+       {
+          "User": "Can I book tickets for an international journey?",
+          "Example": "No, we only operate within [country/region]. However, we can provide information on connecting services or alternative transportation options for international travel."
+       },
+       {
+          "User": "What are the safety measures in place onboard your buses?",
+          "Example": "We prioritize the safety and well-being of our passengers and have implemented various safety measures onboard, including regular sanitization, emergency exits, and trained staff."
+       },
+       {
+          "User": "How can I get updates about delays or disruptions in service?",
+          "Example": "You can sign up for notifications through our website or mobile app to receive updates about delays or disruptions in service. Alternatively, you can check our website or contact our customer service team for real-time updates."
+       },
+       {
+          "User": "Can I book a ticket for a minor traveling alone?",
+          "Example": "Minors traveling alone may require special arrangements. Please contact our customer service team with the details of the minor's journey, and we'll assist you in making the necessary arrangements."
+       },
+       {
+          "User": "Are there any restrictions on the type of luggage allowed onboard?",
+          "Example": "Yes, there are certain restrictions on the type of luggage allowed onboard, such as hazardous materials or oversized items. Please refer to our luggage policy for more information."
+       },
+       {
+          "User": "How can I get a copy of my ticket receipt?",
+          "Example": "You can download a copy of your ticket receipt from your account on our website or mobile app. If you're unable to access it, please provide me with your booking details."
+       },
+       {
+          "User": "Can I book a seat with a power outlet for charging devices?",
+          "Example": "Yes, we have buses equipped with power outlets for charging devices. Please let me know your travel details, and I'll check for available seats with power outlets."
+       },
+       {
+          "User": "What is the age limit for children to travel without a guardian?",
+          "Example": "Children under a certain age may require a guardian to accompany them during the journey. Please provide me with the age of the child."
+       },
+       {
+          "User": "Can I bring food and drinks onboard?",
+          "Example": "Yes, you can bring food and drinks onboard for your personal consumption. However, please be considerate of other passengers and avoid bringing strong-smelling or messy items."
+       },
+       {
+          "User": "How can I check if my bus has Wi-Fi?",
+          "Example": "Wi-Fi availability varies by bus and route. Please provide me with your travel details, and I'll check if Wi-Fi is available on your chosen bus."
+       },
+       {
+          "User": "Can I book a bus ticket for travel today?",
+          "Example": "Yes, you can book a bus ticket for travel today depending on availability. Please provide me with your travel details."
+       },
+       {
+          "User": "Are there any special offers or promotions available?",
+          "Example": "Yes, we offer special offers and promotions on select routes from time to time. Please provide me with your travel details."
+       },
+       {
+          "User": "Can I book a bus ticket for an unaccompanied minor?",
+          "Example": "Unaccompanied minors may require special arrangements. Please contact our customer service team with the details of the minor's journey, and we'll assist you in making the necessary arrangements."
+       },
+       {
+          "User": "How can I contact customer support for assistance?",
+          "Example": "You can contact our customer support team through our website, mobile app, or by calling our customer service hotline. We're available 24/7 to assist you with any queries or concerns."
+       },
+       {
+          "user": "How can I check the bus schedule for tomorrow?",
+          "Example": "You can check the bus schedule for tomorrow by visiting our website or mobile app and selecting your departure and destination cities. Alternatively, I can assist you with that. May I know your departure and destination cities?"
+       },
+       {
+          "user": "Is there a bus available from Coimbatore to Ooty?",
+          "Example": "Yes, there are buses available from Coimbatore to Ooty."
+       },
+       {
+          "user": "What is the duration of the journey from Salem to Chennai?",
+          "Example": "The duration of the journey from Salem to Chennai varies depending on the type of bus and the traffic conditions. On average, it takes around 5 to 6 hours."
+       },
+       {
+          "user": "Can I change my boarding point after booking the ticket?",
+          "Example": "Yes, you can change your boarding point after booking the ticket, but it's subject to availability and fare rules."
+       },
+       {
+          "user": "How can I book a ticket for a group of 15 people?",
+          "Example": "You can book tickets for a group of 15 people by selecting the number of passengers during the booking process."
+       },
+       {
+          "user": "Are there any buses with AC sleeper facilities from Madurai to Kodaikanal?",
+          "Example": "Yes, there are buses with AC sleeper facilities available from Madurai to Kodaikanal."
+       },
+       {
+          "user": "Can I bring my bicycle onboard the bus?",
+          "Example": "I'm sorry, but bicycles are generally not allowed onboard due to space constraints and safety reasons."
+       }
+]
+}
+
+
