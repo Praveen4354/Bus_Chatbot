@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+    <style>
+        body {
+         /* Ensures text is in Arial across all elements */
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        p {
+            white-space: pre-wrap; /* Allows pre-formatted text to wrap and respects white spaces and line breaks */
+        }
+    </style>
+</head>
+<body>
+    <h1>Query Results</h1>
+    <p>{{ response|safe }}</p> <!-- Safe filter to interpret HTML if needed -->
+</body>
+</html>
